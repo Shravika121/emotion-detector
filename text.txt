@@ -1,0 +1,11 @@
+[1 0 0 0 0 0 0] I am feeling happy today!
+[0 1 0 0 0 0 0] I am scared about my results.
+[0 0 1 0 0 0 0] He shouted at me angrily.
+[0 0 0 1 0 0 0] I am feeling very low and sad.
+[0 0 0 0 1 0 0] This is disgusting!
+[0 0 0 0 0 1 0] I feel so ashamed about what happened.
+[0 0 0 0 0 0 1] I regret not studying harder.
+[1 0 0 0 0 0 0] I'm happy today.
+[1 0 0 0 0 0 0] I am feeling happy today!
+[1 0 0 0 0 0 0] I'm happy today.
+[1 0 0 0 0 0 0] I'm feeling joyful

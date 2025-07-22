@@ -1,0 +1,6 @@
+
+streamlit
+scikit-learn
+langdetect
+deep_translator
+pandas
